@@ -1,10 +1,6 @@
-
 # <p align="center">Welcome to My GitHub Page!</p>
-
  <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1= Hi there, I'm Onur Çatık!👨🏻‍💻&width=500&height=80" alt="Onur Çatık">
-  </a>
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1= Hi there, I'm Onur Çatık!👨🏻‍💻&width=500&height=80" alt="Onur Çatık">
 </p>
 
 ## About Me
