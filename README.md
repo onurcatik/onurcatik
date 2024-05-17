@@ -1,7 +1,7 @@
 # <p align="center">Welcome to My GitHub Page!</p>
- <p align="center">
-  [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Onur%20Çatık%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-</p>
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Onur%20Çatık%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 
 
 ## About Me
