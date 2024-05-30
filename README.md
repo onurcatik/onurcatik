@@ -12,8 +12,8 @@
 ## Technologies I Work With
 
 - Languages: JavaScript, Python, Bash
-- Frontend: HTML, CSS, React
-- Backend: Node.js, Express.js
+- Frontend: HTML, CSS
+- Backend: Node.js, Django
 - Databases: MongoDB, MySQL
 - Technical Skills: Git, Docker
 
